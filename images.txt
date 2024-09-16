@@ -1,1 +1,5 @@
 dockurr/samba
+nginx
+owncloud
+homeassistant/home-assistant
+gogs/gogs
