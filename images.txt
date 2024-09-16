@@ -1,1 +1,1 @@
---platform=linux/arm64 viacooky/ddns-go
+--platform=linux/arm64 dperson/samba
