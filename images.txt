@@ -1,5 +1,5 @@
-dockurr/samba
-nginx
-owncloud
-homeassistant/home-assistant
-gogs/gogs
+--platform=linux/arm64 dockurr/samba
+--platform=linux/arm64 nginx
+--platform=linux/arm64 owncloud
+--platform=linux/arm64 homeassistant/home-assistant
+--platform=linux/arm64 gogs/gogs
