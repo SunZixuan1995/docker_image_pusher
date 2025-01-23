@@ -1,1 +1,1 @@
---platform=linux/arm64 dperson/samba
+--platform=linux/arm64 minio/minio
