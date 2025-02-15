@@ -1,1 +1,1 @@
---platform=linux/arm64 openwrt/openwrt:latest
+--platform=linux/arm64 shellspec/openwrt:latest
