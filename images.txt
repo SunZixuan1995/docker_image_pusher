@@ -1,1 +1,1 @@
---platform=linux/arm64 postfixadmin
+--platform=linux/arm64 juanluisbaptiste/postfix
