@@ -1,1 +1,1 @@
---platform=linux/arm64 postgres:17.7-alpine
+--platform=linux/arm64 quay.io/hedgedoc/hedgedoc:1.10.5
