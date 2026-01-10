@@ -1,1 +1,1 @@
---platform=linux/arm64 juanluisbaptiste/postfix
+--platform=linux/arm64 postgres:17.7-alpine
